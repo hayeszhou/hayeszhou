@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hayeszhou
 - 👀 I’m interested in economics casual analysis，ML、R software，econometrics
-- 🌱 I’m currently learning JNU
+- 🌱 I’m currently learning JNU （www.jnu.edu.cn）
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my Email: **zhzhous@sina.com**
 
